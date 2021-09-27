@@ -1,0 +1,8 @@
+
+How to take screenshots using python?
+https://www.geeksforgeeks.org/how-to-take-screenshots-using-python/
+
+Modules Used
+Numpy
+Open-cv
+pyautogui
